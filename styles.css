@@ -1,2 +1,14 @@
+h1{
+	margin: 50px; margin-top: 60px; color: red;
+	}
 
-/* Your CSS Code here. */
+ul{
+	margin-left: 150px; font-size: 20px;
+}
+img{
+		border-radius: 20%;
+        margin-left: 50px;
+        width: 200px;
+        height:160px;
+        display: flex;
+}
