@@ -1,4 +1,4 @@
-h1{
+h3{
 	margin: 50px; margin-top: 60px; color: red;
 	}
 
@@ -6,9 +6,12 @@ ul{
 	margin-left: 150px; font-size: 20px;
 }
 img{
-		border-radius: 20%;
+		border-radius: 50%;
         margin-left: 50px;
         width: 200px;
         height:160px;
         display: flex;
+}
+h1{
+	text-align:center;
 }
